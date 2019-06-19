@@ -1,1 +1,1 @@
-# net2345
+# a poetry competition project
